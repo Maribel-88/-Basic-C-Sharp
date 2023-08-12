@@ -1,0 +1,7 @@
+C:\Users\44798\source\repos\Module11Assignment\Module11Assignment\bin\Debug\Module11Assignment.exe.config
+C:\Users\44798\source\repos\Module11Assignment\Module11Assignment\bin\Debug\Module11Assignment.exe
+C:\Users\44798\source\repos\Module11Assignment\Module11Assignment\bin\Debug\Module11Assignment.pdb
+C:\Users\44798\source\repos\Module11Assignment\Module11Assignment\obj\Debug\Module11Assignment.csproj.AssemblyReference.cache
+C:\Users\44798\source\repos\Module11Assignment\Module11Assignment\obj\Debug\Module11Assignment.csproj.CoreCompileInputs.cache
+C:\Users\44798\source\repos\Module11Assignment\Module11Assignment\obj\Debug\Module11Assignment.exe
+C:\Users\44798\source\repos\Module11Assignment\Module11Assignment\obj\Debug\Module11Assignment.pdb
