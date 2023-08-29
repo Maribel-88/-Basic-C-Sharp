@@ -1,0 +1,7 @@
+C:\Users\44798\source\repos\MethodClassAssignSubmission\MethodClassAssignSubmission\bin\Debug\MethodClassAssignSubmission.exe.config
+C:\Users\44798\source\repos\MethodClassAssignSubmission\MethodClassAssignSubmission\bin\Debug\MethodClassAssignSubmission.exe
+C:\Users\44798\source\repos\MethodClassAssignSubmission\MethodClassAssignSubmission\bin\Debug\MethodClassAssignSubmission.pdb
+C:\Users\44798\source\repos\MethodClassAssignSubmission\MethodClassAssignSubmission\obj\Debug\MethodClassAssignSubmission.csproj.AssemblyReference.cache
+C:\Users\44798\source\repos\MethodClassAssignSubmission\MethodClassAssignSubmission\obj\Debug\MethodClassAssignSubmission.csproj.CoreCompileInputs.cache
+C:\Users\44798\source\repos\MethodClassAssignSubmission\MethodClassAssignSubmission\obj\Debug\MethodClassAssignSubmission.exe
+C:\Users\44798\source\repos\MethodClassAssignSubmission\MethodClassAssignSubmission\obj\Debug\MethodClassAssignSubmission.pdb
