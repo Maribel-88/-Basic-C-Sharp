@@ -1,0 +1,67 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Diagnostics.Eventing.Reader;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PolymorphismSubmission
+{
+
+
+    //Create another class, "Employee" and have it inherit from the Person class
+    public class Employee : Person, IQuittable
+    {
+
+        public Employee()
+        {
+        }
+        public int Id { get; set; }
+
+
+
+        //Implement the SayName method inside of the Employee class
+        public override void SayName()
+        {
+            Console.WriteLine("Name: " + firstName + " " + lastName);
+        }
+
+
+        public void Quit()
+        {
+            Console.WriteLine(firstName + " " + lastName + " " + Id + " " + "Resigned");
+        }
+
+        public override string ToString()
+        {
+            return base.ToString();
+        }
+
+        public override bool Equals(object obj)
+        {
+            return base.Equals(obj);
+        }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+
+
+        public static bool operator ==(Employee employee1, Employee employee2)
+        {
+            if (employee1.Id == employee2.Id)
+                return true;
+            else return false;
+        }
+
+        public static bool operator !=(Employee employee1, Employee employee2)
+        {
+            if (employee1.Id != employee2.Id)
+                return true;
+            else return false;
+
+
+        }
+    }
+}
